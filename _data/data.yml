@@ -82,7 +82,7 @@ projects:
 
       - title: LRSs(Rust)
         link:
-        tagline: "为了降低门罗币的交易费用，设计了一种对数复杂度的关联环签名。并利用Rust语言实现了几种主流的关联环签名算法，进行基准测试。结果显示签名大小显著减小。"
+        tagline: "为了降低门罗币的交易费用，设计了一种对数复杂度的关联环签名。利用Rust语言实现了几种主流的关联环签名算法，进行基准测试。结果显示签名大小显著减小。"
 
       - title: Tonero(C++)
         link:
@@ -90,45 +90,37 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: 
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Compact Ring Signature in the Standard Model
+        authors: ISPEC 2018, Tokyo.
+        conference: 将原方案验证速度提高一倍，签名大小缩小一半。独自赴日参会并做英文报告。
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Logrithmic Linkable Ring Signature and RingCT 3.0
+        authors: IEEE EuroS&P 2019, Stockholm. Submitted.
+        conference: 设计出第一个对数通信复杂度的关联环签名方案，论文受到关联环签名发明者Joseph教授的肯定。
+        
+      - title: 申请专利5项。
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Golang
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: C/C++
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Rust
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Linux
+        level: 80%
 
-      - name: Ruby on Rails
+      - name: Blockchain & Cryptography
         level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
