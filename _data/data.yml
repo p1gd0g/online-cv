@@ -122,5 +122,10 @@ skills:
       - name: Blockchain & Cryptography
         level: 85%
 
+career-profile:
+    title: Self-evaluation
+    summary: |
+      良好的英语文献阅读能力。能够适应经常加班的工作环境。
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
