@@ -44,10 +44,10 @@ sidebar:
         level: 网络工程师
 
     interests:
-      - item: leetcode
-        level: 179(+)
+      - idiom: leetcode
+        level: 179+
 
-      - item: HDOJ
+      - idiom: HDOJ
         level: 95
 
 
