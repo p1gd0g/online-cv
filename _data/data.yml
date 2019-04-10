@@ -23,7 +23,6 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    leetcode: leetcode-cn.com/p1gd0g
 
     languages:
       - idiom: CET-4
@@ -43,6 +42,14 @@ sidebar:
       
       - idiom: 软考中级
         level: 网络工程师
+
+    interests:
+      - item: leetcode
+        level: 179(+)
+
+      - item: HDOJ
+        level: 95
+
 
 education:
     - degree: 硕士
