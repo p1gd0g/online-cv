@@ -16,7 +16,7 @@ sidebar:
     phone: 136 0254 6433
     website: p1gd0g.com #do not add http://
     linkedin: 
-    github: github.com/p1gd0g
+    github: p1gd0g
     gitlab:
     bitbucket:
     twitter: 
@@ -79,7 +79,7 @@ projects:
     assignments:
       - title: （Go）七牛云跨平台客户端
         link: github.com/p1gd0g/QiniuDrive
-        tagline: "基于 gui 包 andlabs/ui 和七牛云 SDK 包 qiniu/api.v7，构建一个跨平台的七牛云客户端，可实现文件的上传、下载（多文件多线程）、删除、抓取，以及 AES 对称加密。可通过终端参数便捷登录。具有完整 log ，易于调试。"
+        tagline: "基于 gui 包 andlabs/ui 和七牛云 SDK 包 qiniu/api.v7，构建一个跨平台的七牛云客户端，可实现文件的上传、下载（多文件多线程）、删除、抓取，以及 AES 对称加密。可通过终端参数便捷登录。具有完整 log，易于调试。"
 
       - title: （Go）区块链节点
         link: github.com/p1gd0g/CTCoin
@@ -91,7 +91,7 @@ projects:
         
       - title: （C++）Monero 交易协议改造
         link: 
-        tagline: "利用密码学改造密码货币 Monero 的交易协议，实现一种第三方可识别的隐身地址。直接更改 Monero 源码，增加新协议所需功能。编译测试，达到目标。涉及的工具及库：CMake、Boost、OpenSSL、Doxygen等。"
+        tagline: "利用密码学改造密码货币 Monero 的交易协议，实现一种第三方可识别的隐身地址。直接更改 Monero 源码，增加新协议所需功能。编译测试，达到目标。涉及的工具及库：CMake、Boost、OpenSSL、Doxygen 等。"
         
       - title: （Rust）经典环签名算法实现
         link: 
@@ -104,11 +104,11 @@ publications:
     papers:
       - title: Compact Ring Signature in the Standard Model
         authors: ISPEC 2018, Tokyo.
-        conference: 将原方案验证速度提高一倍，签名大小缩小一半。独自赴日参会并做英文报告。
+        conference: 第一作者。将原方案验证速度提高一倍，签名大小缩小一半。独自赴日参会并做英文报告。
 
       - title: Logrithmic Linkable Ring Signature and RingCT 3.0
         authors: IEEE EuroS&P 2019, Stockholm. Submitted.
-        conference: 设计出第一个对数通信复杂度的关联环签名方案，论文受到关联环签名创始人 Joseph 教授的肯定。
+        conference: 第一作者。设计出第一个对数通信复杂度的关联环签名方案，论文受到关联环签名创始人 Joseph 教授的肯定。
         
       - title: 申请专利 5 项，已公开 3 项。
 
@@ -136,9 +136,14 @@ career-profile:
     summary: |
       良好的英语文档阅读能力。能够适应经常加班的工作环境。
       
-    title: Volunteer
-    summary: |
-      SICAST第六届深圳先进科学与技术国际会议。负责核对英文邀请函、会场设备管理、指引嘉宾校内就餐。
-      Coursera Global Translator Community。Translated 4,879 words.
+experiences:
+    - role SICAST第六届深圳先进科学与技术国际会议
+      time: 50 hours
+      details: 负责核对英文邀请函、会场设备管理、指引嘉宾校内就餐。
+    
+    - role Coursera Global Translator Community
+      time: 20 hours
+      details: Translated 4,879 words.
+
 
 footer: 
